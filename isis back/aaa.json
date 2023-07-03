@@ -1,0 +1,62 @@
+const signos = [
+    {
+      "signo": 'Áries',
+      "datai": '03-21',
+      "dataf": '04-19'
+    },
+    {
+      signo: 'Touro',
+      datai: new Date('04-20'),
+      dataf: new Date('05-20'),
+    },
+    {
+      signo: 'Gêmeos',
+      datai: new Date('05-21'),
+      dataf: new Date('06-20'),
+    },
+    {
+      signo: 'Câncer',
+      datai: new Date('06-21'),
+      dataf: new Date('07-22'),
+    },
+    {
+      signo: 'Leão',
+      datai: new Date('07-23'),
+      dataf: new Date('08-22'),
+    },
+    {
+      signo: 'Virgem',
+      datai: new Date('08-23'),
+      dataf: new Date('09-22'),
+    },
+    {
+      signo: 'Libra',
+      datai: new Date('09-23'),
+      dataf: new Date('10-22'),
+    },
+    {
+      signo: 'Escorpião',
+      datai: new Date('10-23'),
+      dataf: new Date('11-21'),
+    },
+    {
+      signo: 'Sagitário',
+      datai: new Date('11-22'),
+      dataf: new Date('12-21'),
+    },
+    {
+      signo: 'Capricórnio',
+      datai: new Date('12-22'),
+      dataf: new Date('01-19'),
+    },
+    {
+      signo: 'Aquário',
+      datai: new Date('01-20'),
+      dataf: new Date('02-18'),
+    },
+    {
+      signo: 'Peixes',
+      datai: new Date('02-19'),
+      dataf: new Date('03-20'),
+    },
+  ];
